@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=myckhel&theme=radical&langs_count=6&layout=compact"><img alt="Myckhel's Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myckhel&theme=radical&langs_count=6&layout=compact" /></a>
  </p>
-<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=myckhel&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /></h2>
+<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=myckhel&label=Profile%20views&color=0e75b6&style=flat" alt="myckhel" /></h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/myckhel/">
