@@ -5,7 +5,7 @@
 
 <h3 align="center">A Software and Aspirant Game Developer.</h3>
 
-<p align="center"> 💼 Working at <a href="https://github.com/whatsnum">WhatsNum</a> </p> 
+<!--p align="center"> 💼 Working at <a href="https://github.com/whatsnum">WhatsNum</a> </p--> 
 <p align="center"> ⚡ Fun fact: crazy about football ⚽ </p>
 
 
