@@ -106,7 +106,7 @@
 </p>
 
 <h2>📊 Stats</h2>
-
+    
 <p align="center">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Myckhel Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=myckhel&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
@@ -121,3 +121,7 @@
 <p align="center">
   <a href="https://ko-fi.com/myckhel" target="_blank"><img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5caafce41aed36753f715673_support_buyme.gif" alt="Buy Me A Coffee" width="150" ></a>
 </p>
+    
+<h2>📊 Stats Log</h2>
+
+![Metrics](https://metrics.lecoq.io/myckhel?template=classic&isocalendar=1&languages=1&stars=1&followup=1&people=1&projects=1&code=1&activity=1&achievements=1&discussions=1&gists=1&introduction=1&pagespeed=1&stackoverflow=1&tweets=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&projects.limit=4&projects.descriptions=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&discussions.categories=true&discussions.categories.limit=0&introduction.title=true&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&stackoverflow.user=9241085&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Africa%2FLagos)
