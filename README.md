@@ -32,54 +32,88 @@
   </a>
 </p>
 
-### Back-end development
+<h2>🔥 Development Fields</h2>
 
-<table>
+<table align="center">
   <tr>
-    <th align="center">Laravel</th>
-    <th align="center">PHP</th>
+    <td>
+      <table>
+        <tr>
+          <th colspan="2" align="center">### Back-end development</th>
+        </tr>
+        <tr>
+          <th align="center">Laravel</th>
+          <th align="center">PHP</th>
+        </tr>
+        <tr>
+          <td align="center">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"
+              height="60"
+            />
+          </td>
+          <td align="center">
+            <img
+              src="https://i0.wp.com/phpmagazine.net/wp-content/uploads/2020/09/php8.png?fit=420%2C206&ssl=1"
+              height="60"
+            />
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <th colspan="2" align="center">### Back-end development</th>
+        </tr>
+        <tr>
+          <th align="center">React</th>
+          <th align="center">Javascript</th>
+        </tr>
+        <tr>
+          <td align="center">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+              height="60"
+            />
+          </td>
+          <td align="center">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
+              height="60"
+            />
+          </td>
+        </tr>
+      </table>
+    </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="60">
+    <td></td>
+    <td>
+      <table>
+        <tr>
+          <th align="center">React Native</th>
+          <th align="center">Javascript</th>
+        </tr>
+        <tr>
+          <td align="center">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"
+              height="60"
+            />
+          </td>
+          <td align="center">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
+              height="60"
+            />
+          </td>
+        </tr>
+      </table>
     </td>
-    <td align="center">
-      <img src="https://i0.wp.com/phpmagazine.net/wp-content/uploads/2020/09/php8.png?fit=420%2C206&ssl=1" height="60">
-    </td>
-    
   </tr>
 </table>
 
-### Front-end development
-
-<table>
-  <tr>
-    <th align="center">React</th>
-    <th align="center">Javascript</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="60">
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="60">
-    </td>
-    
-  </tr>
-  <tr>
-    <th align="center">React Native</th>
-    <th align="center">Javascript</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png" height="60">
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="60">
-    </td>
-    
-  </tr>
-</table>
 
 <h2>👩‍💻 Skills</h2>
 
