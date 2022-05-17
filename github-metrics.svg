@@ -89,13 +89,13 @@ and Aspirant Game Developer</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            8125 Commits
+                            8127 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            325 Pull requests reviewed
+                            327 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1939,9 +1939,9 @@ and Aspirant Game Developer</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">coordinates</span>
+                                        <span class="code">formatting</span>
                                         in
-                                        <span class="repo">sawport/newbackend</span>
+                                        <span class="repo">sawport/API_INTGR</span>
                                     </div>
                                 </div>
                             </section>
@@ -1954,24 +1954,24 @@ and Aspirant Game Developer</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 3 commits in
-                                        <span class="repo">sawport/newbackend</span>
+                                        <span class="repo">sawport/API_INTGR</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">frontend_dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#03e3924</div>
-                                        <div class="message">Merge pull request #102 from sawport/coordinates
+                                        <div class="sha">#8a96e12</div>
+                                        <div class="message">Merge pull request #181 from sawport/formatting
 
-Coordinates</div>
+UI adjustments</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d653dd2</div>
+                                        <div class="sha">#916ed1a</div>
                                         <div class="message">formatting</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0a1e282</div>
-                                        <div class="message">update coordinates</div>
+                                        <div class="sha">#bf15002</div>
+                                        <div class="message">UI adjustments</div>
                                     </div>
                                 </div>
                             </section>
@@ -1984,12 +1984,12 @@ Coordinates</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#102 Coordinates</span>
+                                        <span class="issue">#181 UI adjustments</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by St80ene in <span class="repo">sawport/newbackend</span></div>
-                                    <div>4 files changed <span class="code">++21 --27</span></div>
+                                    <div>opened by St80ene in <span class="repo">sawport/API_INTGR</span></div>
+                                    <div>2 files changed <span class="code">++3 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2001,11 +2001,11 @@ Coordinates</div>
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#102 Coordinates</span>
+                                        <span class="issue">#181 UI adjustments</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by St80ene in <span class="repo">sawport/newbackend</span></div>
+                                    <div>opened by St80ene in <span class="repo">sawport/API_INTGR</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2018,9 +2018,9 @@ Coordinates</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/npm_and_yarn/minimist-1.2.6</span>
+                                        <span class="code">fixes</span>
                                         in
-                                        <span class="repo">myckhel/church-management-system</span>
+                                        <span class="repo">sawport/widget_frontend</span>
                                     </div>
                                 </div>
                             </section>
@@ -2585,7 +2585,7 @@ Redis Driver &amp; Version: predis/phpredis ^1.1
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="64.58333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="65.61666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2613,7 +2613,7 @@ Redis Driver &amp; Version: predis/phpredis ^1.1
                                     <span class="prefix">Great</span>
                                     reviewer
                                 </div>
-                                <div class="text">Reviewed 325 pull requests</div>
+                                <div class="text">Reviewed 327 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3008,7 +3008,7 @@ Redis Driver &amp; Version: predis/phpredis ^1.1
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">myckhel/laravel-mono</span>
+                            <span class="blue space">myckhel/laravel-paystack</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -3016,7 +3016,7 @@ Redis Driver &amp; Version: predis/phpredis ^1.1
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 14 May 2022, 13:58:27
+                            On 14 May 2022, 21:04:00
                         </div>
                     </section>
                 </div>
@@ -3026,14 +3026,14 @@ Redis Driver &amp; Version: predis/phpredis ^1.1
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Added laravel 9 support
+                            fixed request bug
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">300efbb6</span>
-                            <span class="code">composer.json</span>
+                            <span class="code">72f99c99</span>
+                            <span class="code">src/Traits/Request.php</span>
                             <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
@@ -3041,14 +3041,14 @@ Redis Driver &amp; Version: predis/phpredis ^1.1
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -13,7 +13,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    }<br /></span><span class="token prefix unchanged">·</span><span class="token line">],<br /></span><span class="token prefix unchanged">·</span><span class="token line">"require": {<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    "illuminate/support": "^7.0|^8.0"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    "illuminate/support": "^7.0|^8.0|^9.0"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">},<br /></span><span class="token prefix unchanged">·</span><span class="token line">"autoload": {<br /></span><span class="token prefix unchanged">·</span><span class="token line">    "psr-4": {</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -51,7 +51,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">public static function request($endpoint, $params, $method = 'get')<br /></span><span class="token prefix unchanged">·</span><span class="token line">{<br /></span><span class="token prefix unchanged">·</span><span class="token line">  $cm       = self::config();<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  $authBearer = "Bearer $cm-&gt;secretKey";<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  $authBearer = "Bearer $cm-&gt;secret_key";<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">  $res = Http::withHeaders([<br /></span><span class="token prefix unchanged">·</span><span class="token line">    'Authorization' =&gt; $authBearer,</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 May 2022, 12:17:46 (timezone Africa/Lagos) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 17 May 2022, 13:41:00 (timezone Africa/Lagos) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
