@@ -397,7 +397,7 @@ and Aspirant Game Developer</div>
                     <rect mask="url(#languages-bar)" x="319.2276807618053" y="0" width="54.42029370141455" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="373.64797446321984" y="0" width="47.253185076509574" height="8" fill="#563d7c"/>
                     <rect mask="url(#languages-bar)" x="420.9011595397294" y="0" width="31.53657311862009" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="452.4377326583495" y="0" width="3.9770610278737872" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="452.4377326583495" y="0" width="3.9770610278737872" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="456.4147936862233" y="0" width="2.1385817942127807" height="8" fill="#b07219"/>
                     <rect mask="url(#languages-bar)" x="458.55337548043605" y="0" width="1.4466245195638976" height="8" fill="#438eff"/>
                 </svg>
@@ -434,7 +434,7 @@ and Aspirant Game Developer</div>
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
                     </div>
@@ -1733,7 +1733,7 @@ and Aspirant Game Developer</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                         </svg>
                                         TypeScript
                                     </div>
@@ -3009,7 +3009,7 @@ Redis Driver &amp; Version: predis/phpredis ^1.1
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2022, 10:18:48 (timezone Africa/Lagos) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 10 Jun 2022, 11:21:47 (timezone Africa/Lagos) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
