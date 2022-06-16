@@ -32,6 +32,14 @@
   </a>
 </p>
 
+<h2>Packages</h2>
+
+| Name  | Stacks | Downloads | Latest Version |
+| ------------- | ------------- | ---- | --- |
+| [Laravel VtPass][vt-link] | ![Laravel][laravel-badge] | [![Total Downloads][ico-downloads-vt]][link-downloads-vt] | [![Latest Version on Packagist][ico-version-vt]][link-packagist-vt]
+| [Laravel Chat System][lcs-link] | ![Laravel][laravel-badge] | [![Total Downloads][ico-downloads-lcs]][link-downloads-lcs] | [![Latest Version on Packagist][ico-version-lcs]][link-packagist-lcs]
+| [use-redux-states](https://github.com/myckhel/use-redux-states) | ![React][react-badge] ![React Native][react-native-badge] | ![Dpwnloads](https://img.shields.io/npm/dy/use-redux-states?style=flat-square) | [![NPM](https://img.shields.io/npm/v/use-redux-states.svg)][shield-urs]
+
 <h2>🔥 Development Fields</h2>
 
 <table align="center">
@@ -159,3 +167,23 @@
 <h2>📊 Stats Log</h2>
 
 ![Metrics](https://metrics.lecoq.io/myckhel?template=classic&isocalendar=1&languages=1&stars=1&followup=1&people=1&projects=1&code=1&activity=1&achievements=1&discussions=1&gists=1&introduction=1&pagespeed=1&stackoverflow=1&tweets=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&projects.limit=4&projects.descriptions=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&discussions.categories=true&discussions.categories.limit=0&introduction.title=true&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&stackoverflow.user=9241085&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Africa%2FLagos)
+    
+[ico-version-vt]: https://img.shields.io/packagist/v/myckhel/laravel-vtpass.svg?style=flat-square
+[ico-downloads-vt]: https://img.shields.io/packagist/dt/myckhel/laravel-vtpass.svg?style=flat-square
+[link-packagist-vt]: https://packagist.org/packages/myckhel/laravel-vtpass
+[link-downloads-vt]: https://packagist.org/packages/myckhel/laravel-vtpass
+[vt-link]: https://github.com/myckhel/laravel-vtpass
+    
+[ico-version-lcs]: https://img.shields.io/packagist/v/myckhel/laravel-chat-system.svg?style=flat-square
+[ico-downloads-lcs]: https://img.shields.io/packagist/dt/myckhel/laravel-chat-system.svg?style=flat-square
+[link-packagist-lcs]: https://packagist.org/packages/myckhel/laravel-chat-system
+[link-downloads-lcs]: https://packagist.org/packages/myckhel/laravel-chat-system
+[lcs-link]: https://github.com/myckhel/laravel-chat-system
+    
+[shield-urs]: https://img.shields.io/npm/v/use-redux-states.svg
+[link-npm-urs]: https://www.npmjs.com/package/use-redux-states
+
+[laravel-badge]: https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white
+[react-native-badge]: https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[react-badge]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+<!-- [laravel-badge]: ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) -->
