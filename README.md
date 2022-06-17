@@ -32,13 +32,20 @@
   </a>
 </p>
 
-<h2>Packages</h2>
+<h2> 📦 Packages</h2>
 
-| Name  | Stacks | Downloads | Latest Version |
-| ------------- | ------------- | ---- | --- |
-| [Laravel VtPass][vt-link] | ![Laravel][laravel-badge] | [![Total Downloads][ico-downloads-vt]][link-downloads-vt] | [![Latest Version on Packagist][ico-version-vt]][link-packagist-vt]
-| [Laravel Chat System][lcs-link] | ![Laravel][laravel-badge] | [![Total Downloads][ico-downloads-lcs]][link-downloads-lcs] | [![Latest Version on Packagist][ico-version-lcs]][link-packagist-lcs]
-| [use-redux-states](https://github.com/myckhel/use-redux-states) | ![React][react-badge] ![React Native][react-native-badge] | ![Dpwnloads](https://img.shields.io/npm/dy/use-redux-states?style=flat-square) | [![NPM](https://img.shields.io/npm/v/use-redux-states.svg)][shield-urs]
+| Name  | Stacks | Downloads | Latest Version | Languages |
+| ------------- | ------------- | ---- | --- | --- |
+| [Laravel VtPass][vt-link] | ![Laravel][laravel-badge] | [![Total Downloads][ico-downloads-vt]][link-downloads-vt] | [![Latest Version on Packagist][ico-version-vt]][link-packagist-vt] | ![PHP][php-badge]
+| [Laravel Chat System][lcs-link] | ![Laravel][laravel-badge] | [![Total Downloads][ico-downloads-lcs]][link-downloads-lcs] | [![Latest Version on Packagist][ico-version-lcs]][link-packagist-lcs] | ![PHP][php-badge]
+| [use-redux-states](https://github.com/myckhel/use-redux-states) | ![React][react-badge] ![React Native][react-native-badge] | ![Dpwnloads](https://img.shields.io/npm/dy/use-redux-states?style=flat-square) | [![NPM](https://img.shields.io/npm/v/use-redux-states.svg)][shield-urs] | ![JavaScript][js-badge]
+| [use-react-state](https://github.com/myckhel/use-react-state) | ![React][react-badge] ![React Native][react-native-badge] | ![Dpwnloads](https://img.shields.io/npm/dy/use-react-state?style=flat-square) | [![NPM](https://img.shields.io/npm/v/use-react-state.svg)][shield-urecs] | ![JavaScript][js-badge]
+| [use-event-listeners](https://github.com/myckhel/use-event-listeners) | ![React][react-badge] ![React Native][react-native-badge] | ![Dpwnloads](https://img.shields.io/npm/dy/use-event-listeners?style=flat-square) | [![NPM](https://img.shields.io/npm/v/use-event-listeners.svg)][shield-uel] | ![JavaScript][js-badge]
+| [CheckWa][cw-link] | ![Laravel][laravel-badge] | [![Total Downloads][ico-downloads-cw]][link-downloads-cw] | [![Latest Version on Packagist][ico-version-cw]][link-packagist-cw] | ![PHP][php-badge]
+| [Laravel Paystack][lps-link] | ![Laravel][laravel-badge] | [![Total Downloads][ico-downloads-lps]][link-downloads-lps] | [![Latest Version on Packagist][ico-version-lps]][link-packagist-lps] | ![PHP][php-badge]
+| [Laravel CheckMobi][lcm-link] | ![Laravel][laravel-badge] | [![Total Downloads][ico-downloads-lcm]][link-downloads-lcm] | [![Latest Version on Packagist][ico-version-lcm]][link-packagist-lcm] | ![PHP][php-badge]
+| [Laravel IapHub][lih-link] | ![Laravel][laravel-badge] | [![Total Downloads][ico-downloads-lih]][link-downloads-lih] | [![Latest Version on Packagist][ico-version-lih]][link-packagist-lih] | ![PHP][php-badge]
+| [Laravel Mono][lmo-link] | ![Laravel][laravel-badge] | [![Total Downloads][ico-downloads-lmo]][link-downloads-lmo] | [![Latest Version on Packagist][ico-version-lmo]][link-packagist-lmo] | ![PHP][php-badge]
 
 <h2>🔥 Development Fields</h2>
 
@@ -179,11 +186,45 @@
 [link-packagist-lcs]: https://packagist.org/packages/myckhel/laravel-chat-system
 [link-downloads-lcs]: https://packagist.org/packages/myckhel/laravel-chat-system
 [lcs-link]: https://github.com/myckhel/laravel-chat-system
+
+[ico-version-lps]: https://img.shields.io/packagist/v/myckhel/laravel-paystack.svg?style=flat-square
+[ico-downloads-lps]: https://img.shields.io/packagist/dt/myckhel/laravel-paystack.svg?style=flat-square
+[link-packagist-lps]: https://packagist.org/packages/myckhel/laravel-paystack
+[link-downloads-lps]: https://packagist.org/packages/myckhel/laravel-paystack
+[lps-link]: https://github.com/myckhel/laravel-paystack
+    
+[ico-version-lcm]: https://img.shields.io/packagist/v/myckhel/checkmobi.svg?style=flat-square
+[ico-downloads-lcm]: https://img.shields.io/packagist/dt/myckhel/checkmobi.svg?style=flat-square
+[link-packagist-lcm]: https://packagist.org/packages/myckhel/checkmobi
+[link-downloads-lcm]: https://packagist.org/packages/myckhel/checkmobi
+[lcm-link]: https://github.com/myckhel/laravel-checkmobi
+    
+[ico-version-lih]: https://img.shields.io/packagist/v/myckhel/laravel-iaphub.svg?style=flat-square
+[ico-downloads-lih]: https://img.shields.io/packagist/dt/myckhel/laravel-iaphub.svg?style=flat-square
+[link-packagist-lih]: https://packagist.org/packages/myckhel/laravel-iaphub
+[link-downloads-lih]: https://packagist.org/packages/myckhel/laravel-iaphub
+[lih-link]: https://github.com/myckhel/laravel-iaphub
+    
+[ico-version-lmo]: https://img.shields.io/packagist/v/myckhel/laravel-mono.svg?style=flat-square
+[ico-downloads-lmo]: https://img.shields.io/packagist/dt/myckhel/laravel-mono.svg?style=flat-square
+[link-packagist-lmo]: https://packagist.org/packages/myckhel/laravel-mono
+[link-downloads-lmo]: https://packagist.org/packages/myckhel/laravel-mono
+[lmo-link]: https://github.com/myckhel/laravel-mono
     
 [shield-urs]: https://img.shields.io/npm/v/use-redux-states.svg
-[link-npm-urs]: https://www.npmjs.com/package/use-redux-states
+    
+[shield-urecs]: https://img.shields.io/npm/v/use-react-state.svg
+    
+[shield-uel]: https://img.shields.io/npm/v/use-event-listeners.svg
 
+[ico-version-cw]: https://img.shields.io/packagist/v/myckhel/checkwa.svg?style=flat-square
+[ico-downloads-cw]: https://img.shields.io/packagist/dt/myckhel/checkwa.svg?style=flat-square
+[link-packagist-cw]: https://packagist.org/packages/myckhel/checkwa
+[link-downloads-cw]: https://packagist.org/packages/myckhel/checkwa
+[cw-link]: https://github.com/myckhel/checkwa
+    
 [laravel-badge]: https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white
 [react-native-badge]: https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
 [react-badge]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
-<!-- [laravel-badge]: ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) -->
+[php-badge]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
+[js-badge]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
