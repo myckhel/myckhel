@@ -85,7 +85,7 @@ and Aspirant Game Developer
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            8426 Commits
+                            8427 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -193,7 +193,7 @@ and Aspirant Game Developer
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    6.62m added, 3.75m removed
+                                    7.81m added, 4.46m removed
                                 </div>
                             </section>
                             <section>
@@ -394,14 +394,14 @@ and Aspirant Game Developer
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="193.85207611885028" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="193.85207611885028" y="0" width="126.22732254743462" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="320.0793986662849" y="0" width="53.864427306756674" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="373.9438259730416" y="0" width="46.77033989431562" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="420.7141658673572" y="0" width="31.803649370952865" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="452.5178152383101" y="0" width="3.934944914625789" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="456.4527601529359" y="0" width="2.1159347308652703" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.5686948838012" y="0" width="1.4313051161988815" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="193.85078996461843" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="193.85078996461843" y="0" width="126.22793253831001" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="320.07872250292843" y="0" width="53.86468760546619" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="373.94341010839463" y="0" width="46.77056591099725" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="420.7139760193919" y="0" width="31.803803061418034" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="452.51777908080993" y="0" width="3.934963930164142" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="456.4527430109741" y="0" width="2.115944956075254" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.56868796704936" y="0" width="1.4313120329506839" height="8" fill="#438eff"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -564,8 +564,8 @@ and Aspirant Game Developer
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="269.78 329"/>
-                                <text x="60" y="60" dominant-baseline="central">82</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="273.07 329"/>
+                                <text x="60" y="60" dominant-baseline="central">83</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1805,7 +1805,7 @@ and Aspirant Game Developer
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        10k
+                                        10.1k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2679,7 +2679,7 @@ Redis Driver &amp; Version: predis/phpredis ^1.1
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.03333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.55 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2701,7 +2701,7 @@ Redis Driver &amp; Version: predis/phpredis ^1.1
                                     <span class="prefix">Great</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 322 times</div>
+                                <div class="text">Repositories have been deployed 323 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3067,7 +3067,7 @@ Redis Driver &amp; Version: predis/phpredis ^1.1
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jun 2022, 22:17:34 (timezone Africa/Lagos) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 22 Jun 2022, 23:18:45 (timezone Africa/Lagos) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
