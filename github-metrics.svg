@@ -564,8 +564,8 @@ and Aspirant Game Developer
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="269.78 329"/>
-                                <text x="60" y="60" dominant-baseline="central">82</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="259.91 329"/>
+                                <text x="60" y="60" dominant-baseline="central">79</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1802,7 +1802,7 @@ and Aspirant Game Developer
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        552
+                                        554
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2826,7 +2826,7 @@ Redis Driver &amp; Version: predis/phpredis ^1.1
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 177k out of 93m users</span>
+                                    <span class="gh">ranked 178k out of 93m users</span>
                                 </div>
                                 <div class="text">Followed by 45 users</div>
                             </div>
@@ -3033,7 +3033,7 @@ Redis Driver &amp; Version: predis/phpredis ^1.1
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jun 2022, 23:18:45 (timezone Africa/Lagos) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 28 Jun 2022, 00:19:33 (timezone Africa/Lagos) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
