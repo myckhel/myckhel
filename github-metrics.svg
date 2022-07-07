@@ -564,8 +564,8 @@ and Aspirant Game Developer
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="240.17 329"/>
-                                <text x="60" y="60" dominant-baseline="central">73</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="266.49 329"/>
+                                <text x="60" y="60" dominant-baseline="central">81</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1683,7 +1683,7 @@ and Aspirant Game Developer
                                     </svg>
                                     <div class="name">
                                         <span>HellioSolutions/helliosms</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official Laravel package that integrates with Hellio Messaging's SMS fleets of APIs nicely with Laravel 5+ adding support for SMS, Notification, Voice SMS, OTP Codes, OTP Verification, Email Validator Service &amp;  Laravel Validator as well.</div>
@@ -3068,7 +3068,7 @@ Redis Driver &amp; Version: predis/phpredis ^1.1
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jul 2022, 05:04:42 (timezone Africa/Lagos) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 7 Jul 2022, 06:27:03 (timezone Africa/Lagos) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
