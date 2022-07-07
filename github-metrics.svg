@@ -1654,7 +1654,7 @@ and Aspirant Game Developer
                                     </svg>
                                     <div class="name">
                                         <span>HellioSolutions/helliosms</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official Laravel package that integrates with Hellio Messaging's SMS fleets of APIs nicely with Laravel 5+ adding support for SMS, Notification, Voice SMS, OTP Codes, OTP Verification, Email Validator Service &amp;  Laravel Validator as well.</div>
@@ -3039,7 +3039,7 @@ Redis Driver &amp; Version: predis/phpredis ^1.1
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jul 2022, 11:23:57 (timezone Africa/Lagos) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 7 Jul 2022, 12:17:54 (timezone Africa/Lagos) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
