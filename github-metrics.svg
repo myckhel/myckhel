@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 54 users
+                            Followed by 53 users
                         </div>
                     </section>
                     <section>
@@ -85,13 +85,13 @@ and Aspirant Game Developer
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            10085 Commits
+                            10086 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            488 Pull requests reviewed
+                            489 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -193,7 +193,7 @@ and Aspirant Game Developer
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    6.02m added, 3.48m removed
+                                    6.32m added, 3.47m removed
                                 </div>
                             </section>
                             <section>
@@ -533,8 +533,8 @@ and Aspirant Game Developer
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="256.62 329"/>
-                                <text x="60" y="60" dominant-baseline="central">78</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="266.49 329"/>
+                                <text x="60" y="60" dominant-baseline="central">81</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1848,11 +1848,10 @@ and Aspirant Game Developer
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    54 followers
+                    53 followers
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAgMEAAj/xAAnEAABAwIFBAIDAAAAAAAAAAABAAIRAyEEEjFBURMiYaEyQiNxkf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDl9jWU6Ac4TULrSbAeQg6zvrVe30PSKoYq15ExIA42SaYzOM8EoGF5t1hnaftv/UFRuR0fIag8hOrnqRnDmwIBIt+k7BsmkQ4GQ4hBPW+GdpnqGT4PHtDhTFdsGHaA+dkLHlmlw7UHQq1uDpuAMuE8FBAMwd2yHaWVbsU+jDLEgdxjdbG/hxFTJYknu3UKD//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA2UlEQVR4nGPQM3GgOmIYNVRvNExNiAgEU0cqJ6mYtKIpi9YbWrhSx1Bbt8DK7qlbTl6pmr+trHexiY0nFQyNK69La+lNqO2JKu0Kyevwiq/UN3OiyFBLF/+4yvrIohoLJz+38AzvxHLP+Cpzp1CKDLX3CfOKSdE3dYwsatQ3BTnQ3DnU2jOOCobqmTj4JOT6p1VQ2dCAtFK3yCwjaw9qGqpn4hCcU69v5kwFQ63cApLrWyMLq32T8k1svXySqzxiy82dwyhNUnqkI4ZRQ/VGw9RkNEk5UCtHAQDANwmu0bRY1QAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAcDBQYI/8QALBAAAQMDAgQEBwEAAAAAAAAAAQIDBAAFERIhBhMxQSMzYYEHIkJRcZHBsf/EABcBAQEBAQAAAAAAAAAAAAAAAAMCAQT/xAAeEQACAgICAwAAAAAAAAAAAAABAgADESEEEhQjof/aAAwDAQACEQMRAD8A6nGTvtS8+LL0VUSI3JmNR9BKjqySenYA1tjKDNsbccUErLe2e6sdKRXFU5mUy+me06uQG+a86QO57fvFG5AG5daFjqEWTS/GLkJ2PMRnHgq6ehBwQapZM6zOyHSqMnUlRQrwwdwcfylzCvr9hvq3YDzzcZ5o83w8kpH9qzt11trURCXUyG15Pnp+Y79ent7VytxabNgGL5d1Rwx+S14l41uUlhLt1nuBxOOSy39PsNh/tEXLiNV3sKJ8V9HLlBsFP2KBvn1yKRVxmyHZa1LdUTqzUVsu8uE3IZaWC1pLgQsZCVfcU9q6xMosw2ZuLxxM067IhtuBHl83AwFhBzjP5x+qHn8QQY8pTc9tbsgAalNPHB29DjNLtDqyrmFRK1HUSe5qcLKhlWCfxVIvQYEF/a5Jn//Z" width="28" height="28" alt="" />
@@ -1876,6 +1875,7 @@ and Aspirant Game Developer
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYEBf/EACoQAAEDAgQFBQADAAAAAAAAAAECAwQFEQASIUEGBxMxURRCYXGRgYKx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQQFA//EABoRAQEBAQEBAQAAAAAAAAAAAAECAAMREiH/2gAMAwEAAhEDEQA/AMnMqbGqfMb0VYzmn0yO30mzqlanNSu2+w/jHD4q4WZqcaQ5Chojtsglt/MBfxpi75wRIEKVErzhabfaStglQ0cRYrAt5BBt8m2+IBVRaVDCjIBz6k5r5z2tb48YS6fXomo8SGWa1Py+qTkugIYluh2bBcMZ5V75rdjfe4tr94oHHghZAt+YgOWnBXEzMt+rwPRyKVOdcDrIeIcQQTY2IA389icWc+n1VmQULhSbge1GYfuKM82j3TKol8yTJocKaYUyox25Mhg9VnMLhsncDtf52wY1Ll3Bm8cVGOJTsXqkTUtNpBC0r0XY7WWL/wBhhXjOrVAaufbgp5m1ydG4siJiuBlUdXRQ42LLKFt5lAn7SMMTy5sAmDdzajlHh+nRqTTGoUFHTYbTdIvqfJP7jcmQlSQdf3Bty/Lk2tuTn3nS+0laAc1woa6G/fbCXEbSpkE97n/cMQHmxr9fXf/Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYEBf/EAC0QAAEDAgQEBAcBAAAAAAAAAAECAwQFEQAGEiEHMkFREzFh0RUWIkJxc5Ox/8QAFwEBAQEBAAAAAAAAAAAAAAAABAMAAv/EAB0RAAIDAQADAQAAAAAAAAAAAAABAgMRBBIhIjH/2gAMAwEAAhEDEQA/AKN7gI+iKp+bmZloNp1LIiEpSAN/vGIDKLVLcrohohtVVsKOpRDgWpA8yAFdBc7XOE/iTVK47ld+O3UnlNynAy6kto+ps3uLgbYIqYZtFXGlwGfDmRng4g9LjfFdz9NGvfYs5j4OU8qNTp9cTTacsIIS8gupSVGwsu4Nt0je/wCccBzhPFSsj5uifwV74os1Z2dk5ZejmnuQnp8FMxtvxQUoUHeZGwtyqPrsepuPKrNTUbqqEu/7le+LUQVi1nFkXEspmb3a5EDTdOlNtK3DpA0D1vjgN+OlTYDpWQeo2xhdkPPTC4+4pxy/Ms3PXG15tFg5pGvvg9/yxvOtRQ8QJsgRqdFQzyQUNvPAX31rJRfytv8A7g/04XKdFardImRpYKPh9NQ4w6ydDgKVDzPUHWb97DtgucJWslRJPc4RxTShmA+tvzP/2Q==" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAADDElEQVR4nMVW20sUURg/17nsOLO7k7teFrfylkHrvqkQvnShqIiCepCiCAKfxEqkWogKfJGCDAofAssnTaKSqHxSt6KCUvK2O58lQn9JnJl1d2ecNfXFH4eBc2bOj+/y+75vENoREF0RT03CCstvtw8W0RFCvCqEZUaDquCVGa8K5V9tiYxQQ5gjxcI8arCI7jCKpSssorOoLsXCCCEaVBHFm6WV4iY1NXGH+N2hmAZVGtakGnNTdHJ9BVY4NTWiSht/SQISNTUsM7m+ovRXjCCEsMJ5ZRBtGrwyiGWWv+4FNVQpvouaGtoiqKmJi6VUwUyNBNxeE+ykO7dTJWZqzsrHhwTEoR9dRCRUZMaNUw+7Pqz+7Dx+BiFkHIgPrU6P//3hrHevXqqY5owNBaRY2EdnvMJYn+vumz0AMNJ1DyFUuTs2Pz8Pa3jT218UAsyjhjsousKrQ7565py3tbbqPBcvVVUbTx9chCxY1tX97R5feXWIlBVF1qkZD2PTlaO9408ajWjxYUf/DQD4/f5TOXFlhoYCWLJl4IBosl0zstt+PDTzEQB62k4WHZLh2QkRkO77HgtImZsEK9yuQhdp5eHmheXMn2+zCaW8cHgkubAsfL/Y0Ool1WS76XC3+26hXX58GwAm+wYxpy13LtQ170MIXRq4JXx/Oxkm8nqZu9ynusKrXInCCh9bmgaAay0n6s63L0J2qm8Qy2x0cQoAhjtTHkaE/RKFEBKaoLlSix1KZsBamfxea0YffB2zLOvusY7k9bMZsCCTPVeT9JJSwqL6f8Rfm2gCgJm52Ue/xrNgAcBr6/OXlTkASA+8kJC3zHPiL/drsjRcKNNUKrW0tGRls6NPn6XTaUfwE89HGoJRn3YVLtExaFCV4mZxFSuKoqrCds55IpGo27MXb9BQDK/MbdgBFQNje61vLR8lmrTM6Pp2tc0mXQSnsdJQwGcEYWEUDQVoOLDZcSLAiFMIIqGFwScKhhj24LOl4gh+I6+RH1h5WW5ES2sjWlob0far7YOUiYos/EzY2x3AP//wt8Ho8/k/AAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -1933,9 +1933,9 @@ and Aspirant Game Developer
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">fix-customer-online-status</span>
+                                        <span class="code">time-format</span>
                                         in
-                                        <span class="repo">sawport/Dashboard</span>
+                                        <span class="repo">sawport/react-sdk</span>
                                     </div>
                                 </div>
                             </section>
@@ -1948,20 +1948,20 @@ and Aspirant Game Developer
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">sawport/Dashboard</span>
+                                        <span class="repo">sawport/react-sdk</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">frontend_dev</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9c5cb7a</div>
-                                        <div class="message">Merge pull request #462 from sawport/fix-customer-online-status
+                                        <div class="sha">#3e11b66</div>
+                                        <div class="message">Merge pull request #80 from sawport/time-format
 
-Changed customer's waiting color to red</div>
+Changed offline widget time format to be in standard time</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9670437</div>
-                                        <div class="message">Changed customer's waiting color to red</div>
+                                        <div class="sha">#8a7c940</div>
+                                        <div class="message">Changed offline widget time format to be in standard time</div>
                                     </div>
                                 </div>
                             </section>
@@ -1974,12 +1974,12 @@ Changed customer's waiting color to red</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#462 Changed customer's waiting color to red</span>
+                                        <span class="issue">#80 Changed offline widget time format to be in standard time</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by St80ene in <span class="repo">sawport/Dashboard</span></div>
-                                    <div>1 file changed <span class="code">++6 --1</span></div>
+                                    <div>opened by St80ene in <span class="repo">sawport/react-sdk</span></div>
+                                    <div>2 files changed <span class="code">++5 --5</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1991,11 +1991,11 @@ Changed customer's waiting color to red</div>
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#462 Changed customer's waiting color to red</span>
+                                        <span class="issue">#80 Changed offline widget time format to be in standard time</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by St80ene in <span class="repo">sawport/Dashboard</span></div>
+                                    <div>opened by St80ene in <span class="repo">sawport/react-sdk</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2008,9 +2008,9 @@ Changed customer's waiting color to red</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">propagate-latest-user-room</span>
+                                        <span class="code">fix-customer-online-status</span>
                                         in
-                                        <span class="repo">CollabNowUS/collabnow-web-client</span>
+                                        <span class="repo">sawport/Dashboard</span>
                                     </div>
                                 </div>
                             </section>
@@ -2575,7 +2575,7 @@ Redis Driver &amp; Version: predis/phpredis ^1.1
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="148.79999999999998 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="149.31666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2603,7 +2603,7 @@ Redis Driver &amp; Version: predis/phpredis ^1.1
                                     <span class="prefix">Great</span>
                                     reviewer
                                 </div>
-                                <div class="text">Reviewed 488 pull requests</div>
+                                <div class="text">Reviewed 489 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2729,7 +2729,7 @@ Redis Driver &amp; Version: predis/phpredis ^1.1
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="41.281407035175874 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="40.502512562814076 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2766,9 +2766,9 @@ Redis Driver &amp; Version: predis/phpredis ^1.1
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 173k out of 108m users</span>
+                                    <span class="gh">ranked 177k out of 108m users</span>
                                 </div>
-                                <div class="text">Followed by 54 users</div>
+                                <div class="text">Followed by 53 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3004,7 +3004,7 @@ Redis Driver &amp; Version: predis/phpredis ^1.1
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Feb 2023, 17:25:22 (timezone Africa/Lagos) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 15 Feb 2023, 18:17:00 (timezone Africa/Lagos) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
