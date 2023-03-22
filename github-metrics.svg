@@ -193,7 +193,7 @@ and Aspirant Game Developer
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    5.51m added, 3.02m removed
+                                    4.63m added, 2.69m removed
                                 </div>
                             </section>
                             <section>
@@ -533,8 +533,8 @@ and Aspirant Game Developer
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="282.94 329"/>
-                                <text x="60" y="60" dominant-baseline="central">86</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="273.07 329"/>
+                                <text x="60" y="60" dominant-baseline="central">83</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1931,27 +1931,11 @@ and Aspirant Game Developer
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">text-message</span>
-                                        in
-                                        <span class="repo">CollabNowUS/collabnow-web-client</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">email-attachment</span>
+                                        <span class="code">city_update</span>
                                         in
-                                        <span class="repo">sawport/newbackend</span>
+                                        <span class="repo">CollabNowUS/collabnow-mobile-app</span>
                                     </div>
                                 </div>
                             </section>
@@ -1964,20 +1948,20 @@ and Aspirant Game Developer
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">sawport/newbackend</span>
+                                        <span class="repo">CollabNowUS/collabnow-mobile-app</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2dd4b2c</div>
-                                        <div class="message">Merge pull request #311 from sawport/email-attachment
+                                        <div class="sha">#9a4828d</div>
+                                        <div class="message">Merge pull request #31 from CollabNowUS/city_update
 
-[Fix] Email attachment not showing</div>
+city plus livemeeting upd</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#63efcae</div>
-                                        <div class="message">[Fix] Email attachment not showing</div>
+                                        <div class="sha">#b06ee50</div>
+                                        <div class="message">city plus livemeeting upd</div>
                                     </div>
                                 </div>
                             </section>
@@ -1990,12 +1974,12 @@ and Aspirant Game Developer
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#311 [Fix] Email attachment not showing</span>
+                                        <span class="issue">#31 city plus livemeeting upd</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by St80ene in <span class="repo">sawport/newbackend</span></div>
-                                    <div>1 file changed <span class="code">++1 --9</span></div>
+                                    <div>opened by kabirbapson in <span class="repo">CollabNowUS/collabnow-mobile-app</span></div>
+                                    <div>10 files changed <span class="code">++79 --37</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2007,11 +1991,27 @@ and Aspirant Game Developer
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#311 [Fix] Email attachment not showing</span>
+                                        <span class="issue">#31 city plus livemeeting upd</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by St80ene in <span class="repo">sawport/newbackend</span></div>
+                                    <div>opened by kabirbapson in <span class="repo">CollabNowUS/collabnow-mobile-app</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">text-message</span>
+                                        in
+                                        <span class="repo">CollabNowUS/collabnow-web-client</span>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2904,7 +2904,7 @@ OLD URL PATH:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 658k out of 387m repositories</span>
+                                    <span class="gh">ranked 659k out of 387m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 36 stars</div>
                             </div>
@@ -3040,7 +3040,7 @@ OLD URL PATH:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Mar 2023, 19:20:15 (timezone Africa/Lagos) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 22 Mar 2023, 20:13:14 (timezone Africa/Lagos) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
