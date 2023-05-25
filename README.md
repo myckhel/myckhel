@@ -54,7 +54,7 @@
     <td>
       <table>
         <tr>
-          <th colspan="2" align="center">### Back-end development</th>
+          <th colspan="2" align="center"># Back-end development</th>
         </tr>
         <tr>
           <th align="center">Laravel</th>
@@ -79,7 +79,7 @@
     <td>
       <table>
         <tr>
-          <th colspan="2" align="center">### Back-end development</th>
+          <th colspan="2" align="center"># Front-end development</th>
         </tr>
         <tr>
           <th align="center">React</th>
