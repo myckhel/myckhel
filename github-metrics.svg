@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3212" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3395" class="">
     <defs>
         <style/>
     </defs>
@@ -193,7 +193,7 @@ and Aspirant Game Developer
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.55m added, 2.27m removed
+                                    2.81m added, 1.66m removed
                                 </div>
                             </section>
                             <section>
@@ -533,8 +533,8 @@ and Aspirant Game Developer
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="253.33 329"/>
-                                <text x="60" y="60" dominant-baseline="central">77</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="256.62 329"/>
+                                <text x="60" y="60" dominant-baseline="central">78</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1853,7 +1853,7 @@ and Aspirant Game Developer
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUEBwH/xAApEAABAwIFBAICAwAAAAAAAAABAgMEBREAEhMhMSJBUWEGFBUjUnHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EAB8RAAIBBAIDAAAAAAAAAAAAAAABEQIDISIxQRIyUf/aAAwDAQACEQMRAD8AXvMvfYXYR7X7g4iT64wXZcVCV52BYqaBuXP4CwOKlRcDLrh1nRvt1Y5vUvki6bXpLLbX7SoOJS4rIsk+Txx5xKl8Ulizl8C2hP1WUXPsJabiISNIOpOsr2Te1u1ufeKi0L2yIRxvcHnAWl/KH01iO3KguJXNIQFCQk9+dh7w6k5StN5jjXSNr8++MD4PsyupTpwH5RFUqr8lZQ1HZUQmwsSQN1k/5jLR6jFb/J1OWxnLyc99O7buQb27X7YmxXM0AZ0Nrud8wvjJUa7LmIp9IfDJhvPZFAI6gPAPbAq44Yz1iOjykvRJlQElxkg6uqlpsXQg39DDOROZUUF2PqHILHTzWHj1/WObfH5a29ZKEoASskdOEhnOhKNkbi/GKalkVf1uNUn/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACsQAAEDAwMCBAcBAAAAAAAAAAECAwQABREGITESEwcjQVEUFSIyM2GRsf/EABcBAQEBAQAAAAAAAAAAAAAAAAMCAQT/xAAdEQABBAMBAQAAAAAAAAAAAAACAAEDEQQiIzEh/9oADAMBAAIRAxEAPwAdbDnSvBJx6IGaHS3PfakMWu3uvS28EkYIbG/JO2TRdw1LJTcfh4kKGu2SPyugHrbxxg5/XtRuk78bLpdYbt7ry3ZB7pGxGcAehzxQzA4DbercTqe3ig13a72aZ3bxZZJjrStpTmCVjIIznf3q8hQbRNhsSo8lCmXkBaCpzpOD+qTaz1E886Y7Nvc+kAuF1W+SM7dII9RyRV3oHpjaNtLaGyPJ6ilfKVEkkf0miAyr6uueAWfVYtcXW2SvuZbHurj+mtP8K5zM3SrjCAHH2XyVFOMFBJwc8e9CabsDF5mNRZ8iUtllIWUhYHcOOVbf5irHxCt8TRelLYrTrCIo+aNoUkDPcCmiCFH7lck7nmmm6Api5yNShL2oJvlxdfRjvjCUnABXwAN6Rs3iVGaQy1IV0IGB5hp1qGOl+9oW4VEhKljfg4NIkWOI4hKiXQSPRdHDFY2qzZXtmX//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
@@ -1934,9 +1934,9 @@ and Aspirant Game Developer
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dvo-features</span>
+                                        <span class="code">dvo-ui</span>
                                         in
-                                        <span class="repo">CollabNowUS/collabnow-web-api</span>
+                                        <span class="repo">CollabNowUS/collabnow-web-client</span>
                                     </div>
                                 </div>
                             </section>
@@ -1948,22 +1948,65 @@ and Aspirant Game Developer
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">CollabNowUS/collabnow-web-api</span>
+                                        Pushed 13 commits in
+                                        <span class="repo">CollabNowUS/collabnow-web-client</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5e5cdd9</div>
-                                        <div class="message">Merge pull request #65 from CollabNowUS/dvo-features
+                                        <div class="sha">#5667cec</div>
+                                        <div class="message">Merge pull request #150 from CollabNowUS/dvo-ui
 
-added availability timezone</div>
+Dvo UI</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0014147</div>
-                                        <div class="message">added availability timezone
-fixed initAvailability checking weekends</div>
+                                        <div class="sha">#255919c</div>
+                                        <div class="message">selected 60mins by default</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec30c0f</div>
+                                        <div class="message">redirect to calendar on connected</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#989f663</div>
+                                        <div class="message">handled availability timezone</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f05af8</div>
+                                        <div class="message">handled availability updated data</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36438a0</div>
+                                        <div class="message">handled time edit</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5fae32b</div>
+                                        <div class="message">handled date override CRUD</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf1844e</div>
+                                        <div class="message">deploy</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f54e91d</div>
+                                        <div class="message">saved dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e5448a</div>
+                                        <div class="message">consumed add/connect calendar</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a80ea75</div>
+                                        <div class="message">consumed overview</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92d8e58</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master' into dvo-ui</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59ca73b</div>
+                                        <div class="message">curved room control icons</div>
                                     </div>
                                 </div>
                             </section>
@@ -1976,12 +2019,12 @@ fixed initAvailability checking weekends</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#65 added availability timezone</span>
+                                        <span class="issue">#150 Dvo UI</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">CollabNowUS/collabnow-web-api</span></div>
-                                    <div>3 files changed <span class="code">++4 --2</span></div>
+                                    <div> in <span class="repo">CollabNowUS/collabnow-web-client</span></div>
+                                    <div>19 files changed <span class="code">++752 --681</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1993,12 +2036,12 @@ fixed initAvailability checking weekends</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#65 added availability timezone</span>
+                                        <span class="issue">#150 Dvo UI</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">CollabNowUS/collabnow-web-api</span></div>
-                                    <div>3 files changed <span class="code">++4 --2</span></div>
+                                    <div> in <span class="repo">CollabNowUS/collabnow-web-client</span></div>
+                                    <div>19 files changed <span class="code">++752 --681</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2009,7 +2052,7 @@ fixed initAvailability checking weekends</div>
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
+                                        Deleted
                       branch
                                         <span class="code">dvo-features</span>
                                         in
@@ -2382,7 +2425,7 @@ I have really practised the code formatting and I thank god for it now that it i
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Aug 2023, 17:19:08 (timezone Africa/Lagos) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 22 Aug 2023, 18:13:31 (timezone Africa/Lagos) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
