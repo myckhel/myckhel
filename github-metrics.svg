@@ -471,8 +471,8 @@ and Aspirant Game Developer
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="223.72000000000003 329"/>
-                                <text x="60" y="60" dominant-baseline="central">68</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="174.37 329"/>
+                                <text x="60" y="60" dominant-baseline="central">53</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -2446,7 +2446,7 @@ I have really practised the code formatting and I thank god for it now that it i
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 148k out of 125m users</span>
+                                    <span class="gh">ranked 148k out of 114m users</span>
                                 </div>
                                 <div class="text">Published 108 public repositories</div>
                             </div>
@@ -2607,7 +2607,7 @@ I have really practised the code formatting and I thank god for it now that it i
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 164k out of 125m users</span>
+                                    <span class="gh">ranked 164k out of 114m users</span>
                                 </div>
                                 <div class="text">Followed by 66 users</div>
                             </div>
@@ -2744,7 +2744,7 @@ I have really practised the code formatting and I thank god for it now that it i
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 658k out of 46.1m repositories</span>
+                                    <span class="gh">ranked 658k out of 41.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 41 stars</div>
                             </div>
@@ -2917,7 +2917,7 @@ I have really practised the code formatting and I thank god for it now that it i
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Nov 2023, 15:15:48 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Nov 2023, 16:17:00 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
