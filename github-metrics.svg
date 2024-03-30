@@ -193,7 +193,7 @@ and Aspirant Game Developer
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.95m added, 3.41m removed
+                                    6.97m added, 4.32m removed
                                 </div>
                             </section>
                             <section>
@@ -533,8 +533,8 @@ and Aspirant Game Developer
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge low">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="105.28 329"/>
-                                <text x="60" y="60" dominant-baseline="central">32</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="72.38 329"/>
+                                <text x="60" y="60" dominant-baseline="central">22</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1699,7 +1699,7 @@ and Aspirant Game Developer
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        583
+                                        584
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1877,7 +1877,7 @@ and Aspirant Game Developer
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAABM0lEQVR4nGNgGAV0AzIyMlcuXnj2+BEudOr4MX4+PtIM9fXx+f/7F35kaGBAmqF+vr5DxlAfiM7vnz99fPvm2uVLa1et+vX924c3r39+/UKpoUUF+VMnTbKytOjq6PDz9S0qKIgMD6fU+6HBwXU11TnZWVcvXQwNDi4tKZ45fRqlLt22ZTM8EPfv2f3r29dBF1G+1DfU08ODoKF6urqkGcrBwdHV0T531ixcqKGulomJiWGYAiaqe83b0/PMyRPJiYlwkazMjOdPHleUlcJFZk2ffuzwoVXLlxFrvZmp6dWLF2NjopEFL50/h8xdvGCBkaHhhnVrNdTViTLU1NSko6318IH9+A1dsnDh2VMnubi4iDJUUFDQztZWUFAQWVBZSQmZKy0traWpyc7OTpSJo2AwAgA67ZUgu+dCRgAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA+0lEQVR4nGNgGAV0A7IyMlcunH/y4D4udOr4MT4+PtIM9fL0/P/7F35kZGhIfUONjYwGk6Hfv3z+8PbNtcuX1qxa+fv7tzcvnv/48plSQ0uLi6ZOmmRrY9PT1RkcFFiYnx8VEUGpoSFBQbXVVTlZWVcvXQwJDi4rLZk1fTqlhm7bvAkeiLt37Pj59ctgjaj/VDTUzdWVoKH6enqkGcrBwdHe2jprxnRcqK6mmomJiTRDRwEEZGdlMiCBoKBABgqBtrZ2fW2NnJwsXCQ1JZlSQyvLy6MjI0uKCuEiaakpoqKiFBkqKyPDwMAgLycHF1FUVHRydKTI0FEwWAAAc+J2Kea8fowAAAAASUVORK5CYII=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABgUHAAIE/8QAKRAAAQQABQQBBAMAAAAAAAAAAQIDBAUABhESIQcTMVEiFBVBcVJhwf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8A3y1Th9wqCdQT5xCdRM1LyxcsVlRCFg8y39VPTtKuyzx68HTnU8Dj3ixcjsgtoGKskzLHpROlvZirl2VzmCa4bB1xkLbdq0OKQ42j0XOD6Ce37xu1D52HEs6SLZVqw7GkNBxCh6P+/wBYDSoiW3lJUo6/rC/pzlyZlqot6+RIJrS+mVWx3iO8iM6kKBWPxrrpp/NC8QF2D9xd26aYsoZZPsUNtoGumBXUGIqkl1/evuolq2+9uYTFttwYdB+IG4Eg88H94yifcSRos4RJlvbh8sLNHZS5eg5WYsX251hOnWJS5IkWD4edO0HQb9Br5OC8xSHJK1EDk4lLOW8pnlWBrzzndX8j5wg//9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUEBwH/xAApEAABAwIFBAICAwAAAAAAAAABAgMEBREAEhMhMSJBUWEGFBUjUnHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EAB8RAAIBBAIDAAAAAAAAAAAAAAABEQIDISIxQRIyUf/aAAwDAQACEQMRAD8AXvMvfYXYR7X7g4iT64wXZcVCV52BYqaBuXP4CwOKlRcDLrh1nRvt1Y5vUvki6bXpLLbX7SoOJS4rIsk+Txx5xKl8Ulizl8C2hP1WUXPsJabiISNIOpOsr2Te1u1ufeKi0L2yIRxvcHnAWl/KH01iO3KguJXNIQFCQk9+dh7w6k5StN5jjXSNr8++MD4PsyupTpwH5RFUqr8lZQ1HZUQmwsSQN1k/5jLR6jFb/J1OWxnLyc99O7buQb27X7YmxXM0AZ0Nrud8wvjJUa7LmIp9IfDJhvPZFAI6gPAPbAq44Yz1iOjykvRJlQElxkg6uqlpsXQg39DDOROZUUF2PqHILHTzWHj1/WObfH5a29ZKEoASskdOEhnOhKNkbi/GKalkVf1uNUn/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFD0lEQVR4nK3U2VOTVxgG8PwTvez0sp3pTWcAF7Qttq7IpoKyiQhFRRTZQYKEEBK2hH0N2TEbkJCFhEgSqrKpOIjTzrT9A9pxetObttOZc06fzvk+FoNYOx1ncvnlmfM7530fSdJLHHuBr5/j1BqSl5D2Lc4tICuIbC/yXbjiRPF9XDPh5gRuj6JyEDU9qO+CVAmZHK1NUDWgswaaO+grw+A1jBZhogCSYxs48QynV5HyCOlRXAjh4hxyPLg8jUI7vrHgugFlWpQPo6oftRrc7UBTG1pkUEjRXoeuKvSUo78UwyUYK4QuH8ZLkJx8ijPLSH2IjDAy53HJjzw3CqZQZEWJGaV63BpDxRCqe1HXjcZ2NLdC3gzlXXTUQl2B3lsYvIGRYmivQJ8L00XcPwfJ2SWkLeL8ArIC22SHQDZukwc4uaELTSpOVojkaoF8E0Mi+TIMObBkwZoBZwokO+RcgXxVIN8QyHdEshqNanRPU42TKmWc3F2Fntt7yZMXYEvHVDJcJyHhZF8sWbdLru9GowotnVCbWf80ndgkvS0C+bpALuBks0B2pGL6DGaPw5cESY4X+TModKB4EtcFcvkIJ9dq0NCJJiVkLZzcKYf6HvqVzPCSDJdh9ConG7NhyRTIZzFzCp6v4P8C84mQcLJtmzwukPtQ1wO5Du0W1qFlKoVAruTkgVJoDVQ/SfVSZqrGZCbsaZzsPgHvMcx9jtAhhOMhKbLyMSzV4fYYKgZR0wuli2l/IIOLdMDHhgN00MrUFRhQQOulxg1isFDTJjGP0kkXnVwnDhnj5C8RPIIHBxGJRzQOEk7W7pJl2r/HNolcIYxhPbqq0dcG3QoxPCQTKjZRwMlmJ7HepZycCutj4s1m84exkIBIHE/koZw8hOo+1Kn5GKo9VGOlbY3CGNZgzEMNz8h4M7NVvgqr1kKNm/fPw9pMbToqkl0yOiun4fjdxGgcJCKZb54KzXJo7HTASTtr0COF/jnRmuloMX6O3MBPcfjxs2VZ0JGCqTxmCxKR7FZRXx3diYuKobub18LJna3QvSC9UuhfkDElG7uKiXz8tpiMzU+w8fFGq8mb8rvnOKyrRCTbH5GF42xvaGM77in45rUJm9ddiREdNWyScTkbvwJ9Ht+8P6IJWP0IKx/+asn2JSFwFLY1Eo6HT0pdWrInMRoHyZtlo/VQvZ/oGpghB2Zh8x6XL/zp/xSRD5bzngQTsXAA9lUSOQRHlIQTsU+oYqdshM0bqYRxnehuwbxOLLVM3LzZM3/90p/zqjcrdBjhBEQSYF/Z54C7oR2xZaMbpMZxyjevEJOrxN7DX9mXhO/KhlaSvxfH8MFp5vT9a6gmtmyMBmq2UWs2L5uZFDiM1LZI/LnsSeqTnaGZK6XuAf7iwXzmeEg87W+8fn9s2VhaqS0D9ibmOsnH0J+MuVzmDJEpNwkWMfGk7mEauMaDpjxkPova1kgkITZ0ZLtfxbKxVTKHlLkysfXKT0n4IP9u/hJz6ah9mUx56IyJzmqoy0Bt68S+RmZMe69CstWv+5XNQgLcfdTbFKPz1VN/FQuUsvlsFjnwljs1Cf0qlo1L2LzAdtlE4hAWRjKUvjXeoQzGJ/TIW58oKoZu9etpxJTNa1+E0pl9ibiHqHuY2pdIKG3v/uwT6jwL1w45tmx2fpGDCJSwQAmLCPf77lC3SD66Rf4v/3l3qE8kH9jngP8/dF7cvPeXyEPfF/n10H8AHoEnKvBg1OcAAAAASUVORK5CYII=" width="28" height="28" alt="" />
@@ -2513,7 +2513,7 @@ I have really practised the code formatting and I thank god for it now that it i
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 153k out of 129m users</span>
+                                    <span class="gh">ranked 153k out of 133m users</span>
                                 </div>
                                 <div class="text">Published 109 public repositories</div>
                             </div>
@@ -2703,7 +2703,7 @@ I have really practised the code formatting and I thank god for it now that it i
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 246k out of 77.8m repositories</span>
+                                    <span class="gh">ranked 246k out of 75.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 51 times</div>
                             </div>
@@ -2755,7 +2755,7 @@ I have really practised the code formatting and I thank god for it now that it i
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 179k out of 129m users</span>
+                                    <span class="gh">ranked 179k out of 133m users</span>
                                 </div>
                                 <div class="text">Followed by 65 users</div>
                             </div>
@@ -2892,7 +2892,7 @@ I have really practised the code formatting and I thank god for it now that it i
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 668k out of 77.8m repositories</span>
+                                    <span class="gh">ranked 668k out of 75.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 43 stars</div>
                             </div>
@@ -3028,7 +3028,7 @@ I have really practised the code formatting and I thank god for it now that it i
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Mar 2024, 21:15:06 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Mar 2024, 22:12:45 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
