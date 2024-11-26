@@ -31,7 +31,7 @@
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Twitter/twitter.svg" alt="twitter" />
   </a>
   <a href="https://myckhel.com">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/icons/WordPress/wordpress.svg" alt="website" />
+    🌐 Web
   </a>
 </p>
 
