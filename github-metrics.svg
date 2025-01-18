@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -193,7 +193,7 @@ and Aspirant Game Developer
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.60m added, 1.22m removed
+                                    140k added, 22.2k removed
                                 </div>
                             </section>
                             <section>
@@ -533,8 +533,8 @@ and Aspirant Game Developer
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge low">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="148.05 329"/>
-                                <text x="60" y="60" dominant-baseline="central">45</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="75.67 329"/>
+                                <text x="60" y="60" dominant-baseline="central">23</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -604,7 +604,7 @@ and Aspirant Game Developer
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 5 days
+                            Current streak 6 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -628,7 +628,7 @@ and Aspirant Game Developer
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~6.69
+                            Average per day at ~6.68
                         </div>
                     </section>
                 </div>
@@ -1599,6 +1599,11 @@ and Aspirant Game Developer
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.6153846153846154 0,2.6153846153846154 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.6153846153846154 1.7,3.6153846153846154 z"/>
                             </g>
+                            <g transform="translate(-8.5, 9.846153846153847)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.153846153846154 0,2.153846153846154 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.153846153846154 1.7,3.153846153846154 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1890,7 +1895,7 @@ and Aspirant Game Developer
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwMGCAX/xAAtEAABBAEDAQYFBQAAAAAAAAABAgMEEQUABiESBxMiUWGBCCMxQXEUQqHR4f/EABcBAQEBAQAAAAAAAAAAAAAAAAQFAQP/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADBBIR/9oADAMBAAIRAxEAPwBa7Ts27tbaEiZEFTHVCOwopsIWb5r0AJ/Os3Daz2akrn5jIzZMlw9Zddctf+a0J2/RDN2vj4iALVNC7Po2v+9FMDDSJ0CAP1wcdbBJHUhdAngn7XXnqXY3DeAyxmqFidES59iGXzcPcL+28nJdnYwxy7EeePU40QR4L8qPtWnSh5aD9gRnWt6QmYb1uttEvEUR3Vi7/PA405aVSxYQOpRW3ghf8Q7RHZ65KbPzYr6XQkOdBUOQqvMgEn20CN73xLeEX3cl0PtUW2kpILhA+5+lasO+8xMzU6S5kXA9ThQlChaUJ60JoJPA4Woe+uNtbYuDlToct5hxQclrQpjr+WRx7/zru2VWAJmVaWrHIlm7FsrPxpyO58izbb9R2kqNDpvqNn9nHi5FcDz09wN3YuVGS4ZPcq+ikOpUkg+lcKHqODovmtJZmSISLBjQS81IT4HUqUspu00DQAAsGtRHCMOzJjbqy4GHe5bLjLKyEhKSBZQT9zpy5UCCCe5nckz/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABwACBAUGA//EACkQAAEEAQMCBQUBAAAAAAAAAAECAwQRBQATURJBBhQhMUIVImHD0dL/xAAYAQADAQEAAAAAAAAAAAAAAAAABAUCA//EAB8RAAICAgIDAQAAAAAAAAAAAAECAwQAEQUSEzGxkf/aAAwDAQACEQMRAD8AKHkxwNR5aY0RsLkOIbBPQL7nUT6vHSPWe68eG4lfsOsT48my8xlsVGxLc54RlFcxsK8tbTgq+u/YV2PvqtYttEhYfDkqrWSdwpPzCEIrLraHGyhbahYUk2COdNMNvjVThMkqHj3Gp6BaH3tkt+qC31kgWO4BANX21YpzEGvvcWk8AH+ayl5pEDdT+YS1EikKlhme3t8HeTax8tZVnFzJWemvsvx2mnVbbbuy08grG2KWhX5cQLo0DdUDXSbIW1n/AA+ikrQ/KLa0rFggoX/kaOuGw2NizGnWoMfdUjeKygX1V76WtyNLIYz6GM8fCqRCUezvBBJD0Ge4zIjeWIbbWQWg2Vk2RY7UO1kAldGqAQlA/LRd8QQormSU65GZW6EIT1KQFGrPOnNMoSgBNgcDXAcoK48fXesJuONh/J21vP/Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwQCBQYI/8QALBAAAQMCBQIFBAMAAAAAAAAAAQIDBAAFBhESEzEhYRRBUXGBByIjsZGh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAQDBf/EAB4RAAIDAQACAwAAAAAAAAAAAAECAAMRBBIUISIx/9oADAMBAAIRAxEAPwBci25Kk6l/AonudzxjcrhNkWm6RYEOO4pDMbZC9aAcgSSOTTYprVEKQSglOWscjpzQk9blxZFwaWhxYQ5tvuBwDVkfTz4p3XcygZD8VK2E+U77Csp2/YcjS7iyhqYdbbob41IWUEjscs6xkx9t5SVDqKswHCVDwvGK3C4Hfytg+SDx/vzVU5tO+dXOVKqclBsJcoDnJJivG1rwrF0zXN2YR+KM2fvV7+g7/uhSJDnYobm3SVLksty3S49tPbbRGZ5HYDL4rncaynn8S3Z5xZLni3Ovtnl+hWiZkym2pcVEt9Md9KdxtK8gevaodFTWDFOTR5USs/Yb8RIsH1NnYdf8EGkTbOlxSGW1HQtDfloPp2P9Uiwsd2K6sCV41MbUctp46VD+Oh9681nJDaFIQlJ7DtVOfQe1IQ+AyT9Zbjv5P//Z" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUHBgj/xAArEAABAwMCAwcFAAAAAAAAAAABAgMEAAURBhITITEHFCJBYXGhFVFikcH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAYC/8QAIBEAAQUAAgIDAAAAAAAAAAAAAQACAwQRE3ESIVGR0f/aAAwDAQACEQMRAD8APgaHffQCKVzrQ5FemNMQmZgjnhul5xaML89mP7Vx09KZabAKUVIu0dpi36muakKkI4+XAGyQPHzz+8isQv1Gs7uD0p5Gtqrk1IUG+E6y5scbzn1BpY9ZX0uEc6p+mLYlizPyF5WZTu8FXUoAwPnNCSYieMrwigSy484nq7NjGpvftY/T2+7xJAS+eWR1qXaj1BOekOvyVqlbzt3OOHIHkPanPbbCjxtY2xMVsMB1wbuHyz0FF3zR9vFkQ9xpRUrqCpOPL8aoYGQcAxv6o6eSdtnykdpP0OgkOi9SXNKSyuRvYKuTbpJDY9PtW3cfQ4oKChzFRpClIlwEIUUpccwrHuK6ZiaRshhxyqEFKLYyVLVk/NL3K8DgNbnScp2LjXHjcM+Cv//Z" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUHBgj/xAArEAABAwMCAwcFAAAAAAAAAAABAgMEAAURBhITITEHIkFRYXGhFBVikcH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAYC/8QAHxEAAQUAAQUAAAAAAAAAAAAAAQACAwQRcRITIUGR/9oADAMBAAIRAxEAPwA+Bod99AIpXOtDkV6Y0xCZmCOeG6XnFowvx2Y/tXHT0plpsApRUi7R2mLfqa5qQqQjj5cAbJA7/PP7yKzE/Uazu4PCnka2quTUhQb4TrLmxxvOfUGlj1lfS4Rzqn6YtiWLM/IXlZlO7wVdSgDA+c0JJiJ4yu6KXllx5xPV2bGNTe/ax+3t/TxJAS+eWR1qXaj1BOekOvyVrlbzt3OOHIHgPanPbdCjxtY2xMVsMB1wBXD5eQou+aPt4siHuNKKldQVJx4fjVDCyDsgBqjp3zss9T3aT8HASHRepLmlJZXI3sFXJt0khsenlW3cfQ4oKChzFRlK1NzLe2hRSlxzCse4rpqJpGyGHHKoQUotjJUtWT80C7XgcBrc4TlOzcjcXROGH0V//9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgUBAwQH/8QALxAAAQIFAgMFCQEAAAAAAAAAAQIDAAQFERIGIRMxUQcicZGhFCMkMkFhgYLB8P/EABYBAQEBAAAAAAAAAAAAAAAAAAUEBv/EACERAAIBBAICAwAAAAAAAAAAAAIDAQAEBRESMQZBIVGh/9oADAMBAAIRAxEAPwDz9bXeG0X9BTWnZiaflqtTTMLQ5gpxZUbAc7BPhEuZLTIBeWGxfmY4JN2ZouqG54e8k7BaS2bW62P5PmYazLDBWlFqf2h/HlCx/Jw7HX18VS11SZSlVxbVLLpkXUh1oOpIKQfobgH/AHWDCmt4W6rmjPTTS+LNE4kn2pNl3KyTt03g2tBy5jyiiy5mkJZ3qo8hILuTFXW6zWXnFVx1kmyGwLW8L/2N1IqDbIMs+pGAVhgTt9vQwz0Uww3r/NTDbqn5dOXFTnj4X5QX7S6cwntErK0AoHEbIQmyUp7g5ARncg2SvDCfVajFhA2K2D7qy4w3NyhYRbYXa29ILLl1ZbFI/WElPR8MjdV8fmvvE9thKgom/PrCGMeRRIeoo/OW4DxZHc1//9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQH/xAAsEAABAgUDAwMDBQAAAAAAAAABAgMABAURIRJBUQYxgRMVIhYykUNhcaHB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQBAgX/xAAeEQACAgICAwAAAAAAAAAAAAABAgADBBIRIQUiMf/aAAwDAQACEQMRAD8AXpikJV1LSmnG0oSiXa12TuLAk/vtA1G6enJ6n1VMvLOPNsOYNiASDyd7DO9vEME6R7pLuKSAAxbJsQRfGMja/iKV09Ms0noUOyLkq6gpfmX0uZWVjYEYtcjPBibBoORAY6C19TIXOUpgUSUWCUOmXs7e50qDj2OQefEASlPSqXQotkg3IPqBu4JJ7fmGGoJS1746VskLcDlmvmlV0E2G9rXzwI5TmZNUiwXX2UL0AlKiQRfP+xdF2XmCu9GKia4kXJ+ZKJKUfceuEKdSRp0ZNieyTqHfjmKFTaeKT0HMyqJ2WTUSFK0EEoFwBpFzfbyfEaHTaEfS1GUlISp+X9dwpxqWQCT/AHb+AIErPySEnsD+Y0ExUvTuINlvjPsvcjE42/LtzfqJcedWki4/Vzv4xxbAgOUmmmWEsTbCFraASkuJzptcbjmHyooSHcJHfvaEDqCxqJJSPt5PJhi3CStRqYjR5F7bDuPvc//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUHAgT/xAAqEAABAwMDAwEJAAAAAAAAAAABAgMEAAURBhIhEzFRYQciMkFxgaGxwf/EABgBAAIDAAAAAAAAAAAAAAAAAAEDAAUG/8QAHxEAAgIBBQEBAAAAAAAAAAAAAQMAAgQFERITMSKR/9oADAMBAAIRAxEAPwC2E0QuHtDssN+QwhMmS5HXsV0kcbs8gZ70wyQDgZIHA80Yt56jt1jCNbgJAJddZcyskk8Hjvx270HN6xNplMusDrnu0rqe36njPOQOqhxkgOtOpwpOe324NXMetENG2JFrvM91tCG0LZQCBnnJJ/n5pfTFW513jsa1mKBZ7OU/Cs44SMk+BRWM067e3IduYGHFLc6zbRyd5Jx9a1zQcCNOg3RmU2HG3EpQoH5il1ls8Czx1M26K2ygDeSBlSz5UTyaDFBtdjKbU8/iwrA8mfQtD3CPa1PsMgLWreWFK98+vP6qK4hTTim3UltaTgpWnkVuK1HZ3qdcLVDnPh6SylTm0DPpUFOFQInF1m9Pmw/J/9k=" width="28" height="28" alt="" />
@@ -2705,7 +2710,7 @@ I have really practised the code formatting and I thank god for it now that it i
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 242k out of 231m repositories</span>
+                                    <span class="gh">ranked 242k out of 226m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 55 times</div>
                             </div>
@@ -2894,7 +2899,7 @@ I have really practised the code formatting and I thank god for it now that it i
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 641k out of 231m repositories</span>
+                                    <span class="gh">ranked 641k out of 226m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 52 stars</div>
                             </div>
@@ -3030,7 +3035,7 @@ I have really practised the code formatting and I thank god for it now that it i
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jan 2025, 00:18:28 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jan 2025, 02:21:54 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
