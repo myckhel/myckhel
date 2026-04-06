@@ -190,11 +190,11 @@
 [link-downloads-lcs]: https://packagist.org/packages/myckhel/laravel-chat-system
 [lcs-link]: https://github.com/myckhel/laravel-chat-system
 
-[ico-version-lps]: https://img.shields.io/packagist/v/myckhel/laravel-paystack.svg?style=flat-square
-[ico-downloads-lps]: https://img.shields.io/packagist/dt/myckhel/laravel-paystack.svg?style=flat-square
-[link-packagist-lps]: https://packagist.org/packages/myckhel/laravel-paystack
-[link-downloads-lps]: https://packagist.org/packages/myckhel/laravel-paystack
-[lps-link]: https://github.com/myckhel/laravel-paystack
+[ico-version-lps]: https://img.shields.io/packagist/v/binkode/laravel-paystack.svg?style=flat-square
+[ico-downloads-lps]: https://img.shields.io/packagist/dt/binkode/laravel-paystack.svg?style=flat-square
+[link-packagist-lps]: https://packagist.org/packages/binkode/laravel-paystack
+[link-downloads-lps]: https://packagist.org/packages/binkode/laravel-paystack
+[lps-link]: https://github.com/binkode/laravel-paystack
     
 [ico-version-lcm]: https://img.shields.io/packagist/v/myckhel/checkmobi.svg?style=flat-square
 [ico-downloads-lcm]: https://img.shields.io/packagist/dt/myckhel/checkmobi.svg?style=flat-square
