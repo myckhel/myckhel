@@ -31,19 +31,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -86,7 +86,7 @@ and Aspirant Game Developer
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            16975 Commits
+                            16986 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -514,7 +514,7 @@ and Aspirant Game Developer
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 1 day
+                            Current streak 2 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -538,7 +538,7 @@ and Aspirant Game Developer
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~8.32
+                            Average per day at ~8.31
                         </div>
                     </section>
                 </div>
@@ -1520,6 +1520,13 @@ and Aspirant Game Developer
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3 1.7,4 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 4.833333333333334)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.166666666666667 0,2.166666666666667 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.166666666666667 1.7,3.166666666666667 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
@@ -1757,7 +1764,7 @@ and Aspirant Game Developer
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBQgE/8QAMRAAAQMCBQMABwkAAAAAAAAAAQIDBAURAAYTITESIlEHFBUkMjOBQUJhcZGhovDx/8QAFgEBAQEAAAAAAAAAAAAAAAAABQME/8QAHREAAgICAwEAAAAAAAAAAAAAAQMAAgQREiFBMf/aAAwDAQACEQMRAD8AbcahTm3LQac4ygE3QoIbSRx5/L9MSJnyMvTA1WnoMVh5Voranggnzv8AUYp5Of3Iyulc1IWElZC7A2HJthG+kPOLlZrSZ0maHXFtdrLZvotg3QgkbX3ufBvfA6V1PwGb7pK+iRNNuUSuVErEypuoYUD2tWQfiuBsNxba+OWFlBTUZKanUH1SuVlAUpP0NsZpiZ7r0hsKZq826AAW0vuDb8N/7fBZDzVUVoWp1+qxj1bI9bd4sN8IFYHUxlhBlJmrTkUFyc4wdT5Qe45B7Aft4O2FaoaarPtrQs72IIuMGucpb2uxD6vd2mU9CfHUCo/uo4BZ9TmTHbyn1O6ADLfV91F+P5HF1LC11I9lyznc78hDkZp6bX48diS3BL129VxoLCBY8g+cNOPTJz6Vuu12IFrWSQ9H7v8AMJnK7y/aQVffpw06Xoz2HHZUZpa0uKQD3CwHA5wijFo2u7Q7Laa30J//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcFBP/EAC4QAAEEAQIDBwIHAAAAAAAAAAECAwQRBQAhBhMxBxIiQVFhcSOhFUNygZGS0f/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAP/EACARAAIBBAMAAwAAAAAAAAAAAAECAAMEESESMUETobH/2gAMAwEAAhEDEQA/AKKcSyp6Yk8ttgKNkKB2u6o/totxRxjEwjzCJSS6654uU2Aj5Pte+k7MdbGPcjy6PNUjvFJPQCj1HsPvoBx9hmIUX8XbgtSHYzY5jctRoouv5sj066VOAIZhsHUWrd1ajLltD9xiI2smrLR4C8cHrnqW4kq23QN/udbyczlYzaGVY2O4UJA7yjufvqe9nvGLGczq4z7DUMJSsxAlw3Zorv1uvbz1TG8ZCkJ5k11uQ4eiylPT06fOnun+UAgSi3vC2UqgEDrXn1CEXj1MSWtGbSyWCAPokWD8E76DdsnGkfIRo+Pwj6HYhV337sOBwdAQfLz8xYGkMuVIWs27Xe60hH+awshwdBzWRcfmyZnMpKLQpCdr/TqOmcdSNl9MA9nrD7/GGLaYV40vBxRuvAjc7/AOrg9nWi6tRivM2o+FE5CRsauu57a6OAezTC4bKOzI789x7kqR9VxFVafRI9NUBOChkfm/31nHI7mHU//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABQMEBwIG/8QAKRAAAQMDAgUDBQAAAAAAAAAAAQIDEQAEIQUSBhMxQVEiYXEUIzWBwf/EABkBAAIDAQAAAAAAAAAAAAAAAAIEAAEDBf/EAB8RAAIBBAIDAAAAAAAAAAAAAAECAAMEERIxQRMhUf/aAAwDAQACEQMRAD8AxPQ2274NclsIVthU9zTNw/a2a27ZsOLdCgXS20SB+/iqXArKHnAhE7p6gxFScRsN/X3iuVdNkKKC7IG5OM/HXvQtUKD1OSiCtcFT8kdxapLgUh77akzjG2fNC6gyHLpZCC5Hp3K6mMfym+GmWrhttCEuTkyrMe9UtZcZTqDoWrlq7pirye4OxU6AcS9whfWGn6ItVwVjUkvqCWThBSAOsZma9Lfmz1bSdHfv32g+bzmOJ3bByiYMY64A9oHms2euXH7u4cXtClEztEUnZOKXp1nvUVbllQkn0nPTxS9bIAMZ0Cv5O4xqmsW9nrN3cNkAl2EtbSDy4wZGJ8iKEuL5lbpUtCyVZ6ChNT/IOJ7RXDbyy2nPat0GEEjW68z/2Q==" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHAwX/xAArEAACAgECAwcEAwAAAAAAAAABAwIEEQAFITFRBhIiI0FCoQcTcZEUYYH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQF/8QAGxEBAAMBAQEBAAAAAAAAAAAAAQADEQISIQT/2gAMAwEAAhEDEQA/AIRTc5lZaIR8wDxE+0emqnf+m+0D6e1N6ddsV77EwYPM4NJMM8P67/xqQUbRqCeTwZ1GDnTvt/andI1RtiN1sFC0Zj5hAGQDMDPsOOXxqK4dMcltJvLB7XZGVTYKF2bsvdaaiS85wICBB/3J0NHaBEYlLJ/GmCd4WKyqbxCLK5LVRiRwE+fL8D96Or3q6FBcqy2ke/rp9dz4Nk1lXrtQibt227UWrt7rIKQfHJaxkkdOfM65EKn8y+WISQqUsxX3skDpx56HtsnLuyMjnJPxo3aGz+9AZ4S5jS9Qmh+assfscq2xxZcERFqrc2iBVJPcAUcCEweXqB6c9a2drZVtvrWFNU1EyuUSORGqva2tVXs72etLa4ufXgJSkQcDEeA4cvGf1HppDsMnafOw6RLWiM5nqe6OOk3dPGELxy/Sf//Z" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHAwX/xAArEAACAgECAwcEAwAAAAAAAAABAwIEEQAFITFRBhIiI0FCoQcTcZEUYYH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQF/8QAGxEBAAMBAQEBAAAAAAAAAAAAAQADEQISIQT/2gAMAwEAAhEDEQA/AIRTc5lZaIR8wDxE+0emqnf+m+0D6e1N6ddsV77EwYPM4NJMM8P67/xqQUrRqCeTwZ1HHOnfb+1O6RqjbEbrYKFozHzCAMgGYGfYccvjUVw6Y5LaTeWD2+yMquw0Ls3Ze601El5zgQECD/uToaO0CIxKWT+NME7wsVlU3iEWVyWqjEjgJ8+X4H70dXvV0KC5VltI9/XT67nwbJrKvXahE3btt2otXb3WQUg+OS1jJI6c+Z1yIVP5l8sQkhUpZivvZIHTjz0PbZOXdkZHOSfjRu0Nn96AzwlzGl6hND81ZY/Y5Vtjiy6AItVbm0QKpJ7gCjgQmDy9QPTnrWztbKtt9awpqmomVyiRyI1V7W1qq9nez1pbXFz68BKUiDgYjwHDl4z+o9NIdhk7T52HSJa0RnM9T3Rx0m7p4wheOX6T/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgMEBwX/xAAoEAABAwMDBAICAwAAAAAAAAABAgMEAAURBhIhEzFBgRRRIsFhYrH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwX/xAAeEQACAgICAwAAAAAAAAAAAAABAgARBEEDEyFCUf/aAAwDAQACEQMRAD8Awq3Q5EyUhiIyXXVjGAM0im6cvemWRMkRwY7qdjhH5gA+D9V1rM7Ph32NPbhQ1uSk9MNMtJbQCDjsk48d611VgVdmnZE6Z1ob7Gz4mOW88EfXH334oHLk01amjw4oKXuB9NtNvWZCmeEOp/HPjeP0sLFL34ibhHhSO+Y6R/tcSw2eLb9ErkxH5EhtqQ4w6XG9mOcDH8BaDz/aptOanjt28sSXE72XVo9Zz+6h7GUAsQrqXXkly0uMsWtu3B5/ey5xvABOcD3V7ROvW0sTPlJkdYILyktABsYHKz9n1571l+pypN9mpK1r2r2ArOTioobq2kPdNRTubKTjyMilnFVkvcPx5TIxXUXxNfTI/wAxl6M09b5LzjpjZ2bN5JwD7Pih0ycp6S441uaQo5CFDeR781WdUahqvUgPgQ/Y/wBn/9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
@@ -2177,7 +2184,7 @@ I have really practised the code formatting and I thank god for it now that it i
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 May 2026, 13:23:19 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 May 2026, 01:46:48 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
