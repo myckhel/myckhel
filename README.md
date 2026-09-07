@@ -1,26 +1,34 @@
 <div align="center">
 
-<sub>SOFTWARE DEVELOPMENT &nbsp; / &nbsp; OPEN SOURCE &nbsp; / &nbsp; DEVELOPER TOOLS</sub>
+<h1>Hey, I'm Myckhel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hello"></h1>
 
-# MYCKHEL
-
-### Build useful. Make it yours.
+### Software developer. Open-source builder. Aspiring game developer.
 
 I build software, publish packages, and explore better ways to turn ideas into working code.
 <br>
 Laravel on the backend. React on the web. React Native on mobile.
 
-[![Website](https://img.shields.io/badge/myckhel.com-2563EB?style=for-the-badge)](https://myckhel.com)
-[![Email](https://img.shields.io/badge/Say_hello-0F766E?style=for-the-badge)](mailto:myckhel123@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E76F51?style=for-the-badge)](https://www.linkedin.com/in/myckhel/)
+Code, curiosity, and a little football in between.
 
-[Featured work](#01--featured-work) &nbsp; / &nbsp; [Packages](#02--the-package-shelf) &nbsp; / &nbsp; [Toolbox](#03--the-toolbox) &nbsp; / &nbsp; [Connect](#04--beyond-the-code)
+[Featured work](#featured-work) &nbsp; / &nbsp; [Packages](#packages) &nbsp; / &nbsp; [Skills](#skills) &nbsp; / &nbsp; [Streak Stats](#streak-stats)
 
 </div>
 
+<h2>Connect with me <img src="https://komarev.com/ghpvc/?username=myckhel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"></h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/myckhel/"><img src="https://raw.githubusercontent.com/ryihan/ryihan-material/main/Icon/linkedin.svg" alt="LinkedIn" height="28"></a>
+  <a href="https://instagram.com/myckhels"><img src="https://raw.githubusercontent.com/keikomori/icons-badges/master/badges/Instagram/instagram.svg" alt="Instagram" height="28"></a>
+  <a href="mailto:myckhel123@gmail.com"><img src="https://raw.githubusercontent.com/keikomori/icons-badges/master/badges/Gmail/gmail.svg" alt="Gmail" height="28"></a>
+  <a href="https://stackoverflow.com/users/9241085/myckhel"><img src="https://raw.githubusercontent.com/keikomori/icons-badges/master/badges/Stackoverflow/stackoverflow.svg" alt="Stack Overflow" height="28"></a>
+  <a href="https://twitter.com/myckhelz"><img src="https://raw.githubusercontent.com/keikomori/icons-badges/master/badges/Twitter/twitter.svg" alt="Twitter" height="28"></a>
+</p>
+
+<p align="center"><a href="https://myckhel.com">Visit my website</a> &nbsp; / &nbsp; <a href="https://ko-fi.com/myckhel">Buy me a coffee</a></p>
+
 ---
 
-## 01 / Featured work
+## Featured work
 
 ### Skilled Task Executor
 
@@ -46,7 +54,7 @@ The skill defines the workflow; your coding agent and connected tools execute it
 
 **[Explore the repository](https://github.com/myckhel/skilled-task-executor)** &nbsp; / &nbsp; [Read the guides](https://github.com/myckhel/skilled-task-executor#documentation) &nbsp; / &nbsp; [Report an issue](https://github.com/myckhel/skilled-task-executor/issues)
 
-## 02 / The package shelf
+## Packages
 
 Reusable pieces for the applications I build, from Laravel integrations to React state and event utilities.
 
@@ -70,7 +78,7 @@ Reusable pieces for the applications I build, from Laravel integrations to React
 | [use-react-state](https://github.com/myckhel/use-react-state) | [![npm version](https://img.shields.io/npm/v/use-react-state?style=flat-square&color=2563EB)](https://www.npmjs.com/package/use-react-state) | [![npm downloads](https://img.shields.io/npm/dy/use-react-state?style=flat-square&color=0F766E)](https://www.npmjs.com/package/use-react-state) |
 | [use-event-listeners](https://github.com/myckhel/use-event-listeners) | [![npm version](https://img.shields.io/npm/v/use-event-listeners?style=flat-square&color=2563EB)](https://www.npmjs.com/package/use-event-listeners) | [![npm downloads](https://img.shields.io/npm/dy/use-event-listeners?style=flat-square&color=0F766E)](https://www.npmjs.com/package/use-event-listeners) |
 
-## 03 / The toolbox
+## Skills
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -89,7 +97,13 @@ Python, Java, C, Android Studio, Bitbucket, GitLab, Windows, and WordPress.
 
 </details>
 
-## 04 / Beyond the code
+## Streak Stats
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=myckhel&theme=dracula&hide_border=true" alt="Myckhel's total contributions, current streak, and longest streak" width="495"></a>
+</p>
+
+## Beyond the code
 
 Football fan. Aspiring game developer. Always curious about what I can build next.
 
@@ -101,9 +115,9 @@ If something I've built has helped you, you can [support my work on Ko-fi](https
 
 <div align="center">
 
-**MYCKHEL / Build useful. Make it yours.**
+**Thanks for stopping by. Let's build something useful.**
 
-<sub>Backend logic. Frontend detail. Open-source spirit.</sub>
+<sub>myckhel / code · create · contribute</sub>
 
 [![Explore repositories](https://img.shields.io/badge/Explore_the_repositories-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/myckhel?tab=repositories)
 [![Support on Ko-fi](https://img.shields.io/badge/Support_on_Ko--fi-E76F51?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/myckhel)
